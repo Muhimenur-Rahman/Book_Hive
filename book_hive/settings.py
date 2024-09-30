@@ -34,7 +34,7 @@ SECRET_KEY = env("SECRET_KEY")
 DEBUG = True
 
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['https://book-hive-f1z4.onrender.com', 'http://*.127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://book-hive-vzf3.onrender.com/', 'http://*.127.0.0.1']
 
 
 # Application definition
